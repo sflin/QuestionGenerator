@@ -1,4 +1,4 @@
-# **Schneewittchens Stiefmutter** - Automatic Question Generation out of Texts
+# **Schneewittchens Stiefmutter** - Automatic Question Generation from Texts
 "Schneewittchen's Stiefmutter" (English: "Snow White's Stepmother") was developed as part of my master thesis. It is a tool that automatically generates never-before seen questions out of texts and is built with data from [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page).
 The tool's name is a hommage to the well-known German fairytale "Schneewittchen und die sieben Zwerge" (Snow White and the Seven Dwarfs) by the brother's Grimm. In the fairytale, Snow White's stepmother -- the evil queen -- is questioning her magical mirror to receive answers. The tool is not an oracle like the mirror, but rather generates questions which the evil queen could ask, thus, it is called "Schneewittchen's Stiefmutter".
 
